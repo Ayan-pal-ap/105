@@ -1,0 +1,17 @@
+body{
+    background:lightpink;
+    color: black;
+}
+.heading{
+    width: 80%;
+    font-size: medium;
+}
+.Nameobjects,#result_object_name,#result_object_Accuracy{
+    color: crimson;
+
+}
+#camera{
+    border: blue 5px dotted;
+    width: 50%;
+    height: 300px;
+}
